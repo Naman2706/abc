@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-hello this is change
-=======
-hello naman
-
->>>>>>> 5265083 (person1)
